@@ -42,7 +42,7 @@
 	<a href="https://www.facebook.com/profile.php?id=100004629824982"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mohammed_hossam59/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://snapchat.com/t/PgOb81kZ"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-    <a href="https://x.com/Mohamme66312802r"><img src="https://img.shields.io/twitter/follow/ShawkyXr?style=plastic&logo=x&logoSize=auto&labelColor=000000&color=000000" alt="Twitter"/></a>
+    <a href="https://x.com/Mohamme66312802r"><img src="https://img.shields.io/twitter/follow/mohammedhossam?style=plastic&logo=x&logoSize=auto&labelColor=000000&color=000000" alt="Twitter"/></a>
 </p>
 
 
