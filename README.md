@@ -44,8 +44,8 @@ Core contributor to `gitlab-org/gitlab` — merged MRs improving platform stabil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-kw1kb2khe-hossams-projects-179e97db.vercel.app/api?username=mohammedhossam86&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-kw1kb2khe-hossams-projects-179e97db.vercel.app/api/top-langs/?username=mohammedhossam86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-alpha-lilac-27.vercel.app/api?username=mohammedhossam86&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-alpha-lilac-27.vercel.app/api/top-langs/?username=mohammedhossam86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 
 <br/><br/>
 
